@@ -1,0 +1,33 @@
+{
+	"name": "@elizaos/plugin-xrpl",
+	"version": "1.0.0",
+	"main": "./dist/index.js",
+	"module": "./dist/index.mjs",
+	"types": "./dist/index.d.ts",
+	"exports": {
+		".": {
+			"types": "./dist/index.d.ts",
+			"import": "./dist/index.mjs",
+			"require": "./dist/index.js"
+		}
+	},
+	"dependencies": {
+		"@elizaos/core": "latest",
+		"@supabase/supabase-js": "^2.49.1",
+		"xrpl": "^4.2.0",
+		"xumm-sdk": "^1.11.2",
+		"zod": "^3.0.0"
+	},
+	"peerDependencies": {
+		"@elizaos/core": "^1.0.0"
+	},
+	"devDependencies": {
+		"@types/node": "^20.0.0",
+		"tsup": "8.3.5",
+		"typescript": "^5.0.0"
+	},
+	"scripts": {
+		"build": "tsup --format esm,cjs --dts",
+		"dev": "tsup --format esm,cjs --dts --watch"
+	}
+}
