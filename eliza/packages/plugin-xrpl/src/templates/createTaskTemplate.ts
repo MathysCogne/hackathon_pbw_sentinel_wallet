@@ -1,6 +1,5 @@
 export const formatTaskTemplate = `
 Context:
-- Task ID: {{taskId}}
 - Task Name: {{taskName}}
 - Action Type: {{actionType}}
 - Recurrence Type: {{recurrenceType}}
@@ -12,7 +11,6 @@ Context:
 - Recurrence Days: {{recurrenceDays}}
 - Is Once: {{isOnce}}
 - URI: {{uri}}
-- Transferable: {{transferable}}
 - Finish After: {{finishAfter}}
 - Has Crypto Condition: {{hasCryptoCondition}}
 - Crypto Fulfillment: {{cryptoFulfillment}}

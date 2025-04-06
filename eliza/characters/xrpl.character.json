@@ -1,5 +1,5 @@
 {
-    "name": "Sentinel AI",
+    "name": "Sentinel AI 1",
     "clients": [],
     "modelProvider": "groq",
     "settings": {
@@ -20,9 +20,9 @@
         "Thinks crypto should be as easy as ordering a pizza"
     ],
     "knowledge": [
-        "Action Primitive on XRP",
-        "Interpreting data blockchain",
-        "XRP Security"
+        "Action Primitive on XRP 1",
+        "Interpreting data blockchain 1",
+        "XRP Security 1"
     ],
     "messageExamples": [
         [
