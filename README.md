@@ -9,7 +9,7 @@
 <br/>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=MOEbBAgxb3Y">
+  <a href="https://www.youtube.com/watch?v=0bl5m-31teQ">
     <img src="utils/cover2.png" alt="Demo Video" width="600">
     <br>
     Click to watch the demo video
