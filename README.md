@@ -1,6 +1,7 @@
 # Sentinel Wallet - Hack The Block PBW 2025
 
-![Cover Image](utils/cover.jpg)
+![Cover Image]()
+<img src="utils/cover.jpg" alt="1st Place - XRPL Commons Track - Hack The Block PBW 2025" width="600">
 
 > **🏆 1st Place - XRPL Commons Track - Hack The Block PBW 2025**
 
