@@ -1,23 +1,31 @@
+<div align="center">
+
 # Sentinel Wallet - Hack The Block PBW 2025
 
+<br/>
 
+### ** 🏆 1st Place - XRPL Commons Track - Hack The Block PBW 2025 **
+
+<br/>
 
 <p>
   <a href="https://www.youtube.com/watch?v=MOEbBAgxb3Y">
-    <img src="utils/cover2.jpg" alt="Demo Video" width="600">
+    <img src="utils/cover2.png" alt="Demo Video" width="600">
     <br>
-    <strong>Click to watch the demo video</strong>
+    Click to watch the demo video
   </a>
 </p>
+</div>
 
 
-
-> **🏆 1st Place - XRPL Commons Track - Hack The Block PBW 2025**
+<br/>
 
 ## 🌟 Overview
 
 Sentinel Wallet is a AI-powered multi-signature wallet application.
 Our solution combines the power of the XRPL blockchain with advanced AI capabilities to deliver a secure and intuitive crypto asset management experience.
+
+<br/>
 
 ## 🚀 Core Features
 
@@ -38,14 +46,16 @@ Our solution combines the power of the XRPL blockchain with advanced AI capabili
 - AI acts as a co-signer for enhanced security
 - Validation and approval of secure transactions
 
+<br/>
 
 ## 🤝 Project Team
 
 - Omar Bajja
 - Mathys Cogne-Foucault
 
+<br/>
 
-Special thanks to XRPL Commons for the opportunity to participate in this hackathon and for the support during the event.
+### Special thanks to XRPL Commons for the opportunity to participate in this hackathon and for the support during the event.
 
 
 <img src="utils/cover.jpg" alt="1st Place - XRPL Commons Track - Hack The Block PBW 2025" width="400">
