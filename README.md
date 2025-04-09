@@ -1,7 +1,16 @@
 # Sentinel Wallet - Hack The Block PBW 2025
 
-![Cover Image]()
-<img src="utils/cover.jpg" alt="1st Place - XRPL Commons Track - Hack The Block PBW 2025" width="600">
+
+
+<p>
+  <a href="https://www.youtube.com/watch?v=MOEbBAgxb3Y">
+    <img src="utils/cover2.jpg" alt="Demo Video" width="600">
+    <br>
+    <strong>Click to watch the demo video</strong>
+  </a>
+</p>
+
+
 
 > **🏆 1st Place - XRPL Commons Track - Hack The Block PBW 2025**
 
@@ -37,3 +46,6 @@ Our solution combines the power of the XRPL blockchain with advanced AI capabili
 
 
 Special thanks to XRPL Commons for the opportunity to participate in this hackathon and for the support during the event.
+
+
+<img src="utils/cover.jpg" alt="1st Place - XRPL Commons Track - Hack The Block PBW 2025" width="400">
