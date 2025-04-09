@@ -171,7 +171,7 @@ export function TransactionsList() {
         };
       case 'REVIEW':
         return {
-          text: 'PENDING SIGNATURE',
+          text: 'REJECTED',
           icon: '⚠️',
           className: 'text-yellow-500',
           borderClass: 'border-l-amber-500'

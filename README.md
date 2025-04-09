@@ -1,66 +1,38 @@
-# SENTINEL WALLET - PBW HACK
+# Sentinel Wallet - Hack The Block PBW 2025
+
+![Cover Image](utils/cover.jpg)
+
+> **🏆 1st Place - XRPL Commons Track - Hack The Block PBW 2025**
+
+## 🌟 Overview
+
+Sentinel Wallet is a AI-powered multi-signature wallet application.
+Our solution combines the power of the XRPL blockchain with advanced AI capabilities to deliver a secure and intuitive crypto asset management experience.
+
+## 🚀 Core Features
+
+### 🤖 AI Conversational Interface
+- Natural interaction with your wallet through a conversational agent (LLM)
+- Intuitive transaction and settings management
+- Detailed explanations of operations in natural language
+- Lot of primitive of XRPL implemented 
+
+### ⚡ Automated Task Manager
+- Schedule delayed or recurring transactions
+- Triggers based on balance or on-chain activity
+
+### 🔐 Sentinel Mode
+- Real-time AI transaction analysis
+- Trust and risk scoring system
+- Smart recommendations (SIGN, REVIEW, or REJECT)
+- AI acts as a co-signer for enhanced security
+- Validation and approval of secure transactions
 
 
-🚀 Core Features:
+## 🤝 Project Team
 
-🧠 AI Chatbot Interface
-A natural-language interface that allows users to manage their wallet, sign transactions, and get explanations using a conversational AI agent powered by ElizaOS.
-
-📋 Task Manager
-Users can schedule and automate transactions based on conditions like:
-
-Delayed or recurring transfers
-
-Triggers based on balance or on-chain activity
-
-Smart conditional tasks (e.g. "send X if Y is true")
-
-👁️ Sentinel Mode
-A real-time AI-based transaction analysis system that:
-
-Scores each transaction for trust and risk
-
-Flags suspicious activity
-
-Recommends to SIGN, REVIEW or REJECT
-
-Optionally auto-approves low-risk tasks and auto-rejects threats
-
-🔐 Multisignature by AI
-AI acts as a co-signer, helping validate and approve secure transactions only when the confidence level is high, with human override options.
+- Omar Bajja
+- Mathys Cogne-Foucault
 
 
-### / Environment
-
-```bash
-Please copy and fill our variables in back, eliza and front
-```
-
-
-### / Back
-
-Worker for sentinel feature (Task manager and sentinel)
-
-```bash
-pnpm install
-pnpm dev
-```
-
-### / Front
-
-NextApp
-
-```bash
-pnpm install
-pnpm dev
-```
-
-### / Eliza 
-
-Agent IA
-
-```bash
-pnpm install --no-frozen-lockfile
-pnpm build
-SERVER_PORT=3020 pnpm start --characters="characters/sentinel.character.json"
-```
+Special thanks to XRPL Commons for the opportunity to participate in this hackathon and for the support during the event.

@@ -64,7 +64,7 @@ export function AIAssistant() {
     },
     {
       id: "Create NFT",
-      text: "Mint a new NFT for me using {walletXrpAddress} and the metadata at https://ipfs.io/ipfs/QmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P34isapyhCxX, that's not transferable, with 2% fee",
+      text: "Mint a new NFT for me using r3rHUhjf5d8GUZj8MWsgJHUKfFJS2rAZBt and the metadata at https://ipfs.io/ipfs/QmT5NvUtoM5nWFfrQdVrFtvGfKFmG7AHE8P34isapyhCxX, that's not transferable, with 2% fee",
       icon: <Bell className="w-4 h-4 text-amber-400" />
     },
     {
@@ -79,7 +79,7 @@ export function AIAssistant() {
 	},
 	{
 		id: "Create DID",
-		text: "Create a DID for my wallet",
+		text: " Can you set up a DID on XRPL with my wallet r3rHUhjf5d8GUZj8MWsgJHUKfFJS2rAZBt and associate it with my domain example.com ? ",
 		icon: <TrendingUp className="w-4 h-4 text-purple-400" />
 	},
   ];
